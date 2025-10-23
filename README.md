@@ -1,3 +1,3 @@
 # Xame
 
-Download Link - https://github.com/Himanshu61297/codexame/releases/download/v0.1.0/xamecae_v0.1.zip
+Latest Version - https://github.com/Himanshu61297/codexame/releases/download/v0.20/XameCafe_v0.2.zip
